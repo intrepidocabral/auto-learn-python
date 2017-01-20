@@ -1,6 +1,6 @@
-###########################################
-       AUTO DEVELOP PYHTON PROGRAM
-###########################################
+____
+#AUTO DEVELOP PYHTON PROGRAM
+____
 Esse é um conjunto de exercícios em python. Os programas aqui descritos representam uma sequência lógica em formato de mini-programas. Para rodar os programas, abra o terminal e rode os programas com o comando abaixo para ver o resultado. 
 
 ```
